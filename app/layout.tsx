@@ -6,11 +6,11 @@ import { MiniKitContextProvider } from "@/providers/MiniKitProvider";
 
 import "./globals.css";
 
-export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
-};
+// export const metadata: Metadata = {
+//   title: "v0 App",
+//   description: "Created with v0",
+//   generator: "v0.app",
+// };
 
 export default function RootLayout({
   children,
